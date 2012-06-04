@@ -37,5 +37,5 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 group :production do
-  gem 'pg'
+  gem 'pg', '0.12.2'
 end
